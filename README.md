@@ -27,15 +27,15 @@ Hybrid字体广泛适用于以下场合：
 
 1. 代码编写：在VSCode、Sublime Text、Atom等流行代码编辑器中设置此字体，可以改善中文和英文的阅读体验。
 2. IDE集成：如IntelliJ IDEA、PyCharm等，支持设置自定义字体，让代码看起来更加整洁。
-3. 终端应用：支持Windows、macOS和Linux等多种操作系统。
+3. 终端应用：支持Windows、macOS和Linux等多种操作系统的终端。
 4. 文档编辑：在Markdown或其他文档编辑工具中，提供良好的表现力。
 
 **特点与优势**
 
-1. 兼容性广：支持Windows、macOS和Linux等多种操作系统。
-2. 视觉一致：中英文有统一的样式，避免不同字体混搭的视觉混乱。
-3. 开源免费：遵循MIT开源协议。
+1. 视觉一致：中英文有统一的样式，避免不同字体混搭的视觉混乱。
+2. 开源免费：遵循MIT开源协议。
 
 **结语**
 
-YaHei.Consolas.Hybrid.tif 和 Yahei.Monaco.Hybrid.tif 都是为程序员量身定制的字体，具有优秀的混排效果和广泛的适用场景，是理想的编程字体解决方案
+YaHei.Consolas.Hybrid.tif 和 Yahei.Monaco.Hybrid.tif 都是为程序员量身定制的字体，具有优秀的混排效果和广泛的适用场景，是理想的编程字体解决方案。
+#
