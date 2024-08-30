@@ -37,5 +37,5 @@ Hybrid字体广泛适用于以下场合：
 
 **结语**
 
-YaHei.Consolas.Hybrid.tif 和 Yahei.Monaco.Hybrid.tif 都是为程序员量身定制的字体，具有优秀的混排效果和广泛的适用场景，是理想的编程字体解决方案。
+YaHei.Consolas.Hybrid.tif 和 Yahei.Monaco.Hybrid.tif 是为程序员量身定制的字体，具有优秀的混排效果和广泛的适用场景，是理想的编程字体解决方案。
 #
